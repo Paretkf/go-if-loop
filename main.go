@@ -66,6 +66,7 @@ func main() {
 	printUnderline()
 
 	// 6. For Infinite
+	// วนไปเรื่อยจนกว่าจะเจอ break หรือ return
 	n := 0
 	for {
 		n++
